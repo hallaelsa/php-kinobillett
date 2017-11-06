@@ -1,0 +1,294 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('../images/bg copy.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.feil {
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid crimson;
+}
+
+#feilbtn {
+    
+    border: 1px solid crimson;
+}
+
+#header {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    padding-left: 40px;
+    font-size: 40px;
+}
+
+.content {
+    max-width: 900px;
+    margin: auto;
+}
+
+#dateselect {
+    border-radius: 4px;
+    margin: 10px auto auto auto;
+    padding: 6px;
+    font-size: 20px;
+    display: inline;
+}
+
+.search {
+    display: inline;
+    width: 200px;
+    
+}
+
+#search {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    margin: 10px auto auto 500px;
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+#srcbtn {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    background-color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#srcbtn:hover {
+    border: 1px solid black;
+}
+
+#bildevisning {
+    border: 1px solid darkslategray;
+    margin-left: 10px;
+}
+
+#bestillingsdato {
+    float: right;
+    margin: 0;
+}
+
+#tilbake {
+    padding: 6px;
+}
+
+#registrer {
+    padding: 6px;
+    float: right;
+}
+
+table, tr, td {
+/*     border: 1px solid black;*/
+}
+
+table {
+    background-color: #ebf1f8;
+    border-radius: 6px;
+    padding: 30px;
+    display: inline-block;   
+    margin-top: 10px; 
+}
+
+tbody{
+   
+    table-layout: fixed;
+    height: 30px;
+    margin: 10px auto 10px 0;
+}
+
+td {
+    padding-top: 6px;
+}
+
+
+
+input[type="text"] {
+    padding: 6px;
+    margin: auto;
+    width: 338px;
+    font-size: 16px;
+}
+
+input[type="number"]{
+    padding: 6px;
+    font-size: 16px;
+}
+
+select {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 16px;
+}
+
+label {
+    font-size: 20px;
+    display: inline;
+}
+
+#dato {
+    width: 100px;
+}
+
+p{
+   margin: 0; 
+}
+
+button,.submit {
+    
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid slategrey;
+    color: slategrey;
+    background-color: white;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+
+.submit {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+button:hover,.submit:hover {
+    border: 1px solid darkslategrey;
+    color: darkslategrey;
+}
+
+#tilbake {
+    float: left;
+}
+
+
+.text {
+    text-align: center;
+}
+
+#overskrift {
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid steelblue;
+}
+
+.filmer {
+    border-radius: 2px;
+    position: relative;
+    float: right;
+    width: 470px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+img {
+    height: 150px;
+    margin-right: 10px;
+}
+
+
+#tid_t {
+    width: 80px;
+    float: left;
+}
+
+#film_t {
+    width: calc(338px - 80px);
+    float: left;
+}
+
+.tid {
+    display: inline;
+    border: 1px solid lightsteelblue;
+    background-color: white;
+    padding: 6px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.feilmelding {
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    color: red;
+}
+
+.tid:hover {
+    border: 1px solid darkblue;
+}
+
+h4 {
+   margin: 0; 
+}
+
+h3 {
+    margin-top: 0;
+    text-align: center;
+    font-size: 22px;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+.innhold {
+    vertical-align: middle;
+    text-align: center;
+    border-bottom: 1px solid lightsteelblue;
+
+}
+
+.invalid {
+    border: 1px solid red;
+}
+
+table.ui-datepicker-calendar {
+    padding-top: 0;
+}
+
+@media (max-width: 1070px) {
+    #search {
+        margin-left: 200px;
+    }
+    
+}
+
+@media (max-width: 890px) {
+    .content {
+        margin: 20px;
+    }
+    form {
+        display: block;
+    }
+    .bestilling {
+        width: 100%;
+    }
+
+    .filmer {
+        width: 100%;
+        float: none;
+    }
+    
+    #search {
+        margin-left: 10px;
+    }
+}

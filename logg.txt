@@ -1,0 +1,46 @@
+20.03.2017 17:34 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:34 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:34 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:34 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:38 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Undefined variable: visning C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:40 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 212 
+20.03.2017 17:44 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 214 
+20.03.2017 17:44 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+20.03.2017 17:45 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 214 
+20.03.2017 17:45 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+20.03.2017 19:35 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 213 
+20.03.2017 19:35 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+21.03.2017 09:05 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 210 
+21.03.2017 09:05 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+21.03.2017 09:05 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 210 
+21.03.2017 09:05 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+21.03.2017 09:06 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 210 
+21.03.2017 09:06 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+21.03.2017 09:10 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 210 
+21.03.2017 09:10 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+21.03.2017 09:12 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\bestilling.php 210 
+21.03.2017 09:12 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\business\filmService.php 43 
+02.11.2017 17:51 8 Undefined index: fnavn C:\xampp\htdocs\ObligPHP\reg.php 8 
+02.11.2017 17:51 8 Undefined index: enavn C:\xampp\htdocs\ObligPHP\reg.php 9 
+02.11.2017 17:51 8 Undefined index: tlf C:\xampp\htdocs\ObligPHP\reg.php 10 
+02.11.2017 17:51 8 Undefined index: epost C:\xampp\htdocs\ObligPHP\reg.php 11 
+02.11.2017 17:51 8 Undefined index: antall C:\xampp\htdocs\ObligPHP\reg.php 12 
+02.11.2017 17:51 8 Undefined index: visning_id C:\xampp\htdocs\ObligPHP\reg.php 13 
+02.11.2017 17:51 8 Undefined index: type_id C:\xampp\htdocs\ObligPHP\reg.php 14 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 21 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 23 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 24 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 25 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 26 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 27 
+02.11.2017 17:51 8 Trying to get property of non-object C:\xampp\htdocs\ObligPHP\reg.php 28 
